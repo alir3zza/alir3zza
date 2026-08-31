@@ -7,18 +7,18 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🏗️ I build backend systems and web apps with **Python** and **Django**
-- 🛒 Recently built a full-featured **e-commerce platform** from scratch
-- 🤖 Also enjoy building **Telegram bots** for real-world use cases
-- 📍 Based in Qom, Iran
-- 🌱 Currently sharpening my skills in backend architecture & clean code
-- 💬 Ask me about Python, Django, or building small products end-to-end
+-  I build backend systems and web apps with **Python** and **Django**
+-  Recently built a full-featured **e-commerce platform** from scratch
+-  Also enjoy building **Telegram bots** for real-world use cases
+-  Based in Qom, Iran
+-  Currently sharpening my skills in backend architecture & clean code
+-  Ask me about Python, Django, or building small products end-to-end
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -70,19 +70,6 @@ Currently working on new projects — check back for updates!
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alir3zza&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alir3zza&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alir3zza&layout=compact&theme=radical&hide_border=true" width="50%" />
-</p>
 
 ---
 
