@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Django Enthusiast | Building things that work</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%90%8D;Python+%7C+MATLAB;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%90%8D;PYTHON+%7C+MATLAB;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
