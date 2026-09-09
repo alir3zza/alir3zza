@@ -32,23 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alir3zza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alir3zza&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alir3zza&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alir3zza&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 <table>
@@ -99,3 +82,4 @@ Currently working on new projects — check back for updates!
 </p>
 
 <p align="center"><i>⭐️ If you like my work, feel free to explore my repositories and drop a star!</i></p>
+میخام کانتری بیوشن هاهم باشه
