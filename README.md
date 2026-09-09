@@ -81,5 +81,4 @@ Currently working on new projects — check back for updates!
   <a href="https://www.linkedin.com/in/alireza-rahimi-a66031279/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐️ If you like my work, feel free to explore my repositories and drop a star!</i></p>
-میخام کانتری بیوشن هاهم باشه
+<p align="center"><i>⭐️ If you like my work, feel free to explore my repositories and drop a star!</i></p
