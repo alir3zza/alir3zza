@@ -57,7 +57,7 @@
 
 <br/>
 
-`" “First, solve the problem. Then, write the code !”"`
+`“First, solve the problem. Then, write the code !”`
 <br/>
 `""john johnson""`
 
