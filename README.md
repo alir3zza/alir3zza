@@ -32,34 +32,7 @@
 
 ---
 
-### 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-**🛒 [Rozhan Shop](https://github.com/alir3zza/rozhan-shop)**
-A full-featured e-commerce website built with Python & Django — product catalog, cart, and order flow.
-
-`Python` `Django` `HTML`
-
-</td>
-<td width="50%">
-
-**🤖 [Telegram VPN Bot](https://github.com/alir3zza/bot-telegram)**
-A Telegram bot built for a VPN shop, automating sales and customer interaction.
-
-`Python` `Telegram API`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🐍 [Django Project](https://github.com/alir3zza/rozhan-shop)**
-Practice project exploring core Django concepts, models, and app structure.
-
-`Python` `Django`
 
 </td>
 <td width="50%">
@@ -73,7 +46,7 @@ Currently working on new projects — check back for updates!
 
 ---
 
-### 📫 Let's Connect
+### 📫 find me on 
 
 <p align="left">
   <a href="mailto:alitezza3.69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
