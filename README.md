@@ -5,12 +5,12 @@
 ### `> Hey There!, I am` [Alireza Rahimi](https://www.linkedin.com/in/alireza-rahimi-a66031279/)
 
 <br/>
-`[ I'm a back-end developer Python ]`
+`[ I'm a back-end developer Python ]`<br>
 `[Electrical Engineering student specializing in Telecommunications.]`
 
 <br/>
 
-`[ Focused on building web applications  with Python and Django  ]`
+`[ Focused on building web applications  with Python and Django  ]`<br>
 `[Interested in Signal Processing and Communication Systems.]`
 
 
