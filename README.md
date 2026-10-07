@@ -20,7 +20,6 @@
 
 </details>
 <br/>
-
 <br/>
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
