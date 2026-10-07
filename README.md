@@ -62,7 +62,7 @@
 
 <br/>
 
-<a href="mailto:alitezza3.69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:alirezza3.69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/alireza-rahimi-a66031279/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://t.me/alir3zzm"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
