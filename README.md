@@ -9,6 +9,17 @@
 `[ Python Back-End Developer ]`
 <br/>
 `[ Telecommunications Engineering Student ]`
+<br/>
+<details>
+<summary><b>☰focused on</b></summary>
+
+`[ Python & Django for Web Development ]`
+<br/>
+`[ Interested in Signal Processing & Communication Systems ]`
+
+
+</details>
+<br/>
 
 <br/>
 
@@ -18,17 +29,7 @@
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 <br/>
-<br/>
-<details>
-<summary><b>☰focused</b></summary>
 
-`[ Python & Django for Web Development ]`
-<br/>
-`[ Interested in Signal Processing & Communication Systems ]`
-
-
-</details>
-<br/>
 
 <details>
 <summary><b>☰ More</b></summary>
