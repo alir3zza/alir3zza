@@ -2,7 +2,7 @@
 
 <br/>
 
-### `> guys !, I am` Alireza Rahimi
+### `> guys!, I am Alireza Rahimi`
 
 <br/>
 
