@@ -2,7 +2,7 @@
 
 <br/>
 
-### `> Hey There!, I am` [Alireza Rahimi](https://www.linkedin.com/in/alireza-rahimi-a66031279/)
+### `> guys !, I am` Alireza Rahimi
 
 <br/>
 
