@@ -11,13 +11,15 @@
 `[ Telecommunications Engineering Student ]`
 
 <br/>
+<details>
+<summary><b>☰focused</b></summary>
 
 `[ Python & Django for Web Development ]`
 <br/>
 `[ Interested in Signal Processing & Communication Systems ]`
 
 
-
+</details>
 <br/><br/>
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -54,7 +56,7 @@
 
 <br/>
 
-`"Happy Coding 👨‍💻"`
+`" “First, solve the problem. Then, write the code !”"`
 
 <br/><br/>
 
