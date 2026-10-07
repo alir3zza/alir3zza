@@ -15,7 +15,7 @@
 
 `[ Python & Django for Web Development ]`
 <br/>
-`[ Interested in Signal Processing & Communication Systems ]`
+`[ Signal Processing & Communication Systems ]`
 
 
 </details>
